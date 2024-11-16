@@ -1,0 +1,2 @@
+sap.ui.require(["sap/fe/test/JourneyRunner","CustomerLoyalPA128400U19/purchases/test/integration/FirstJourney","CustomerLoyalPA128400U19/purchases/test/integration/pages/PurchasesList","CustomerLoyalPA128400U19/purchases/test/integration/pages/PurchasesObjectPage"],function(e,s,r,t){"use strict";var e=new e({launchUrl:sap.ui.require.toUrl("CustomerLoyalPA128400U19/purchases")+"/index.html"});e.run({pages:{onThePurchasesList:r,onThePurchasesObjectPage:t}},s.run)});
+//# sourceMappingURL=opaTests.qunit.js.map

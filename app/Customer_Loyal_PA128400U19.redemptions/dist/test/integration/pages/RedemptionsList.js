@@ -1,0 +1,2 @@
+sap.ui.define(["sap/fe/test/ListReport"],function(t){"use strict";var e={actions:{},assertions:{}};return new t({appId:"CustomerLoyalPA128400U19.redemptions",componentId:"RedemptionsList",contextPath:"/Redemptions"},e)});
+//# sourceMappingURL=RedemptionsList.js.map
